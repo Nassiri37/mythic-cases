@@ -9,7 +9,7 @@ This resource lets you create usable crates, that will give the player items tha
 
 ## Credit
 - [Dimka Zheleznov](https://codepen.io/zheleznov) for the UI code and posting it to codepen. Wherever you are, hats off to you. I absolutely copied near-100% to make this work.
-- [JoeSzymkowiczFiveM] (https://github.com/JoeSzymkowiczFiveM) for posting the QBCore verison all I did was convert the script to work for Mythic Framework
+- [JoeSzymkowiczFiveM](https://github.com/JoeSzymkowiczFiveM) for posting the QBCore verison all I did was convert the script to work for Mythic Framework
 
 ## Dependencies
 - [MythicFramework](https://github.com/orgs/Mythic-Framework/repositories)
